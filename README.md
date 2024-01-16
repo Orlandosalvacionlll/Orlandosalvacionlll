@@ -17,9 +17,10 @@ Hey, there! I'am Orlando, You can call me Olan as you want. I'm 21 years of age.
 - Information Technology - New Era University, 2024 
 -Present
 
-## Certifications
-- [Certification Name] - [Issuing Organization], [Year]
-- [Another Certification] - [Issuing Organization], [Year]
+## Connect with Me
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/orlando-iii-m-salvacion-b3b447265/)
+- Facebook: Orlando Salvacion
+- Email: salvacionorlando1103@gmail.com
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandosalvacionlll&label=Profile%20views&color=0e75b6&style=flat" alt="orlandosalvacionlll" /> </p>

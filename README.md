@@ -8,6 +8,20 @@ Hey, there! I'am Orlando, You can call me Olan as you want. I'm 21 years of age.
 <h3 align="center">Be kind always!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+## Skills
+- Programming Languages: Java 
+- Web Development: NetBeans
+- Database Management: Cloud Database
+
+## Education
+- Information Technology - New Era University, 2024 
+-Present
+
+## Certifications
+- [Certification Name] - [Issuing Organization], [Year]
+- [Another Certification] - [Issuing Organization], [Year]
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=orlandosalvacionlll&label=Profile%20views&color=0e75b6&style=flat" alt="orlandosalvacionlll" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>

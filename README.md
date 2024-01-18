@@ -23,7 +23,7 @@ Hey, there! I'am Orlando, You can call me Olan as you want. I'm 21 years of age.
 - Email: salvacionorlando1103@gmail.com
 
 ## Certificate
-- Oracle: [[Your Oracle Cetificate]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E851BB34F2CD1CD289E7D733C9DD5698AD203877C3090D3DBF00659E11BFF155)
+- Oracle: [[My Oracle Cetificate]](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E851BB34F2CD1CD289E7D733C9DD5698AD203877C3090D3DBF00659E11BFF155)
 
 
 
